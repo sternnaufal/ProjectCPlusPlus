@@ -10,7 +10,7 @@ cout<<"masukan nilai tinggi:";
 
 cin>>f;
 
-for(i=1; i<=f; i++){
+for(i=2; i<=f; i++){
 
 cout<<a;
 
