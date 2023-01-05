@@ -6,3 +6,4 @@ Dimana kita akan melihat projek gabut ku dibuat dari awal 2019 sampai sekarang!<
 -Github : github.com/sternnaufal <br>
 -Blog : pentingliterasi.blogspot.com <br>
 -Replit : replit.com/@sternnaufal <br>
+-Twitter : @okebeyos
